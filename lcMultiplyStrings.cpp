@@ -100,7 +100,7 @@ public:
 
 int main(){
 	Solution *s = new Solution();
-	cout << s->multiply("654154154151454545415415454","63516561563156316545145146514654") << endl;
+	cout << s->multiply("63516561563156316545145146514654","63516561563156316545145146514654") << endl;
 	//cout << s->add("8997","00206");
 	//cout << s->getZerosString(5);
 	return 0;

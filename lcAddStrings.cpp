@@ -53,6 +53,6 @@ public:
 
 int main(){
 	Solution *s = new Solution();
-	cout << s->addStrings("22","66") << endl;
+	cout << s->addStrings("22","6"6) << endl;
 	return 0;
 }
